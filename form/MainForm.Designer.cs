@@ -1,0 +1,2 @@
+MainForm.Designer.cs
+designer
